@@ -1,2 +1,2 @@
 # py-network-utils
-Useful network tools written in Python coming from "Black Hat Python" book authored by Juestin Seitz.
+Useful network tools written in Python heavily inspired from "Black Hat Python" book authored by Justin Seitz.
